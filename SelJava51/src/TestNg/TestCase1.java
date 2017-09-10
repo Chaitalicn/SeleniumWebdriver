@@ -34,6 +34,6 @@ public class TestCase1 {
 	System.out.println(text);*/
 	System.out.println("Test 1");
 	System.out.println("Test case pushed in hub");
-	driver.quit();
+
 }
 }
