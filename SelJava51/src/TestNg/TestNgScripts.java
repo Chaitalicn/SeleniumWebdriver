@@ -73,6 +73,7 @@ public class TestNgScripts {
 		}
 		
 		System.out.println("Date selected");
+		System.out.println("Test Case 2");
 			}
 	
 	//@Test(enabled=false)

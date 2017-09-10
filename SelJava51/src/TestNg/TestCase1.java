@@ -33,6 +33,7 @@ public class TestCase1 {
 	String text = driver.findElement(By.cssSelector("span[id='errormsg_0_Passwd']")).getText();
 	System.out.println(text);*/
 	System.out.println("Test 1");
+	System.out.println("Test case pushed in hub");
 	driver.quit();
 }
 }
